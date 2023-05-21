@@ -1,0 +1,7 @@
+[submodule "gpi-backend"]
+	path = gpi-backend
+	url = https://github.com/AKACHI-4/GPI-Backend
+
+[submodule "gpi-frontend"]
+	path = gpi-frontend 
+	url = https://github.com/AKACHI-4/GPI-Frontend
